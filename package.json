@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-    "homepage": "blissful-yonath-04ab71.netlify.com",
+    "homepage": "https://danesimdb.com",
   "browserslist": {
     "production": [
       ">0.2%",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "flamboyant-mccarthy-f221b3.netlify.com/static/css/main.db4e535a.chunk.css",
-    "main.js": "flamboyant-mccarthy-f221b3.netlify.com/static/js/main.7001b8a0.chunk.js",
-    "main.js.map": "flamboyant-mccarthy-f221b3.netlify.com/static/js/main.7001b8a0.chunk.js.map",
-    "runtime-main.js": "flamboyant-mccarthy-f221b3.netlify.com/static/js/runtime-main.98a545a8.js",
-    "runtime-main.js.map": "flamboyant-mccarthy-f221b3.netlify.com/static/js/runtime-main.98a545a8.js.map",
-    "static/js/2.44d29de1.chunk.js": "flamboyant-mccarthy-f221b3.netlify.com/static/js/2.44d29de1.chunk.js",
-    "static/js/2.44d29de1.chunk.js.map": "flamboyant-mccarthy-f221b3.netlify.com/static/js/2.44d29de1.chunk.js.map",
-    "index.html": "flamboyant-mccarthy-f221b3.netlify.com/index.html",
-    "precache-manifest.60c01c406a879a6074f816ec7c9e6dea.js": "flamboyant-mccarthy-f221b3.netlify.com/precache-manifest.60c01c406a879a6074f816ec7c9e6dea.js",
-    "service-worker.js": "flamboyant-mccarthy-f221b3.netlify.com/service-worker.js",
-    "static/css/main.db4e535a.chunk.css.map": "flamboyant-mccarthy-f221b3.netlify.com/static/css/main.db4e535a.chunk.css.map",
-    "static/js/2.44d29de1.chunk.js.LICENSE.txt": "flamboyant-mccarthy-f221b3.netlify.com/static/js/2.44d29de1.chunk.js.LICENSE.txt"
+    "main.css": "blissful-yonath-04ab71.netlify.com/static/css/main.db4e535a.chunk.css",
+    "main.js": "blissful-yonath-04ab71.netlify.com/static/js/main.b0d22556.chunk.js",
+    "main.js.map": "blissful-yonath-04ab71.netlify.com/static/js/main.b0d22556.chunk.js.map",
+    "runtime-main.js": "blissful-yonath-04ab71.netlify.com/static/js/runtime-main.a77eaf8a.js",
+    "runtime-main.js.map": "blissful-yonath-04ab71.netlify.com/static/js/runtime-main.a77eaf8a.js.map",
+    "static/js/2.44d29de1.chunk.js": "blissful-yonath-04ab71.netlify.com/static/js/2.44d29de1.chunk.js",
+    "static/js/2.44d29de1.chunk.js.map": "blissful-yonath-04ab71.netlify.com/static/js/2.44d29de1.chunk.js.map",
+    "index.html": "blissful-yonath-04ab71.netlify.com/index.html",
+    "precache-manifest.968cec159b3ae64f5c8d7195a565447c.js": "blissful-yonath-04ab71.netlify.com/precache-manifest.968cec159b3ae64f5c8d7195a565447c.js",
+    "service-worker.js": "blissful-yonath-04ab71.netlify.com/service-worker.js",
+    "static/css/main.db4e535a.chunk.css.map": "blissful-yonath-04ab71.netlify.com/static/css/main.db4e535a.chunk.css.map",
+    "static/js/2.44d29de1.chunk.js.LICENSE.txt": "blissful-yonath-04ab71.netlify.com/static/js/2.44d29de1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.98a545a8.js",
+    "static/js/runtime-main.a77eaf8a.js",
     "static/js/2.44d29de1.chunk.js",
     "static/css/main.db4e535a.chunk.css",
-    "static/js/main.7001b8a0.chunk.js"
+    "static/js/main.b0d22556.chunk.js"
   ]
 }
