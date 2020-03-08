@@ -2,6 +2,10 @@
   "name": "react_movie_db_course",
   "version": "0.2.0",
   "private": true,
+  "engines": {
+    "npm": "6.14.1",
+    "node": "12.9.0"
+  },
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
