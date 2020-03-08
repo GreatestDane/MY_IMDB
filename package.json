@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-    "homepage": "https://greatestdane.github.io/MY_IMDB/",
+    "homepage": "https://agitated-bohr-459fa0.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",
