@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-    "homepage": "flamboyant-mccarthy-f221b3.netlify.com",
+    "homepage": "blissful-yonath-04ab71.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",
